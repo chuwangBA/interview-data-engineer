@@ -4,7 +4,7 @@ In this task you will work with data that contains information and metadata on p
 1. Transform the given tabular data into a knowledge graph -- this will be done by defining an appropriate data model for a graph database (we use Neo4j)
 1. Ingest the data into Neo4j
 1. Run Cypher queries in Neo4j to retrieve insights from the graph
-1. Document your code, queries and findings by committing them into a **private** clone of this repo.
+2. Document your code, queries and findings by committing them into a **private** version of this repo.
 
 ---
 
@@ -26,7 +26,7 @@ The data provided in the `./data` directory in this repo is in CSV format, and e
 
 ## Tasks
 
-Don't forget to clone this repo and make it private prior to beginning this exercise!
+Don't forget to create a copy of this repo on your GitHub account and make it private prior to beginning this exercise!
 The tasks for this coding exercise are defined below. For task #3, add your answers to the file [SOLUTIONS.md](SOLUTIONS.md).
 
 ### Task 1: Design a data model by sketching a schema
