@@ -4,7 +4,7 @@ In this task you will work with data that contains information and metadata on p
 1. Transform the given tabular data into a knowledge graph -- this will be done by defining an appropriate data model for a graph database (we use Neo4j)
 1. Ingest the data into Neo4j
 1. Run Cypher queries in Neo4j to retrieve insights from the graph
-1. Document your code, queries and findings by committing them into a fork of this repo (please don't work on branches or issue PRs in this repo).
+1. Document your code, queries and findings by committing them into a **private** clone of this repo.
 
 ---
 
@@ -26,7 +26,7 @@ The data provided in the `./data` directory in this repo is in CSV format, and e
 
 ## Tasks
 
-Don't forget to fork this repo prior to beginning this exercise!
+Don't forget to clone this repo and make it private prior to beginning this exercise!
 The tasks for this coding exercise are defined below. For task #3, add your answers to the file [SOLUTIONS.md](SOLUTIONS.md).
 
 ### Task 1: Design a data model by sketching a schema
@@ -53,9 +53,9 @@ You will write some basic Cypher queries to address some business questions that
 
 
 ### Task 4: Cleanup and submission
-Clean up your code and commit all your work to a fork of this repo. Make sure to do the following:
+Clean up your code and commit all your work to your private version of this repo. Make sure to do the following:
 * Make sure the repo settings are **private**.
-* **Add the following GitHub IDs as collaborators to your private repo fork:** (Repo settings > Collaborators and teams > Add People)
+* **Add the following GitHub IDs as collaborators to your private repo:** (Repo settings > Collaborators and teams > Add People)
   * prrao87
   * sjhddh
 * Save your Python data ingestion code at the main level of this directory, in a file named `build_graph.py`.
